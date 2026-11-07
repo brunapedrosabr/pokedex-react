@@ -10,13 +10,21 @@ consultar os treinadores, comparar dois Pokémon e montar uma equipe com ajuda d
 | -------------------------------- | ----------------------------------------- |
 | ![Tela principal](docs/home.png) | ![Detalhes do Pokémon](docs/detalhes.png) |
 
+| Busca                             | Filtro por tipo                     |
+| --------------------------------- | ----------------------------------- |
+| ![Busca por nome](docs/busca.png) | ![Filtro por tipo](docs/filtro.png) |
+
 | Comparação                       | Treinadores                          |
 | -------------------------------- | ------------------------------------ |
 | ![Comparação](docs/comparar.png) | ![Treinadores](docs/treinadores.png) |
 
-| Celular                                                      | Equipe IA                                         |
-| ------------------------------------------------------------ | ------------------------------------------------- |
-| <img src="docs/mobile.png" alt="Versão celular" width="260"> | ![Equipe recomendada pela IA](docs/equipe-ia.png) |
+| Tema claro                         | Equipe IA                                         |
+| ---------------------------------- | ------------------------------------------------- |
+| ![Tema claro](docs/modo-claro.png) | ![Equipe recomendada pela IA](docs/equipe-ia.png) |
+
+<p align="center">
+  <img src="docs/mobile.png" alt="Versão celular" width="260">
+</p>
 
 ## 👥 Aluna
 
