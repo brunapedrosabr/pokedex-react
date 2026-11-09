@@ -26,9 +26,10 @@ consultar os treinadores, comparar dois Pokémon e montar uma equipe com ajuda d
   <img src="docs/mobile.png" alt="Versão celular" width="260">
 </p>
 
-## 👥 Aluna
+## 👥 Alunos
 
 - Bruna Pedrosa Nunes
+- Cesar Lacerda Lima
 
 ## 🧰 Tecnologias
 
